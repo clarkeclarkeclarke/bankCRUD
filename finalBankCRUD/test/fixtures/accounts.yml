@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  accountnumber: 1
+  routingnumber: 1
+  bankaddress: MyString
+  banknickname: MyString
+
+two:
+  accountnumber: 1
+  routingnumber: 1
+  bankaddress: MyString
+  banknickname: MyString
